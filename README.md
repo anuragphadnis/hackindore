@@ -2,7 +2,7 @@
 
 # Submission on Teacher's Feedback System
 
-Before Running it please extract all zip files in the same root folder as all other files.<br/>
+Before Running it please extract all zip files(node_modules.zip,css.zip and assets.zip) in the same directory as all other files.<br/>
 To run this application please use LAMP server,<br/>
 Use GShack.sql file to import database
 
